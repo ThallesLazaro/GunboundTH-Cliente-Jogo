@@ -4,4 +4,4 @@ Edite o arquivo ID.txt para alterar seu ID de jogo, e edite o arquivo IP.txt com
 
 Caso queira jogar no Servidor que coloquei online, basta deixar o IP já pré-definido no arquivo IP.txt
 
-#IP Publico do Servidor de Gunbound para qualquer um jogar: 200.98.64.245
+# IP Publico do Servidor de Gunbound para qualquer um jogar: 200.98.64.245
